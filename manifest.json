@@ -1,5 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "baseUrl": "https://raw.githubusercontent.com/skullkid998/TrioServerLaucherManifest/main/",
-  "files": []
+  "files": [
+    { "path": "test.txt", "size": 49, "sha256": "475B9A59BE648019D87EB2A2EEFC663367DBCB791821FD47CCCCE6C6382BA0A3" }
+  ]
 }
