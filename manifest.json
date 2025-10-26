@@ -1,21 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/skullkid998/TrioServerLaucherManifest/main/",
-  "files": [
-    {
-      "path": "test.txt",
-      "size": 49,
-      "sha256": "475B9A59BE648019D87EB2A2EEFC663367DBCB791821FD47CCCCE6C6382BA0A3"
-    },
-    {
-      "path": "config/test2.txt",
-      "size": 24,
-      "sha256": "F8D498155C8318D70F7658D114AEFB705E028BE5C05BED171D62A9140D3B3159"
-    },
-    {
-      "path": "mods/example.txt",
-      "size": 49,
-      "sha256": "30A0E88BF60D7D27CE7F4ADCCC04FB2E2F6AE000298A14FF370CACA35CED77B0"
-    }
-  ]
+  "files": []
 }
