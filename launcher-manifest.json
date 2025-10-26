@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.0",
-  "url": "",
-  "sha256": "",
-  "releaseNotes": ""
+  "version": "1.0.1.0",
+  "url": "https://raw.githubusercontent.com/skullkid998/TrioServerLaucherManifest/main/launcher_update.zip",
+  "sha256": "81BFA55C6D347D475B424D0245794A52A0A9B6F576A017A28C4997C3B21E5FD7",
+  "releaseNotes": "Release 1.0.1.0"
 }
